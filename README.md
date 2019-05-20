@@ -57,4 +57,29 @@
 - *Scope Creep* known as requirement creep, which refers to the uncontrolled changes in the project’s or product’s scope
 
 - *Pareto Anaysis* is a creative way of looking at causes of problems
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6a/Pareto_analysis.svg "Pareto Chart")
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Pareto_analysis.svg" alt="Pareto Chart" width="300" height="200">
+
+- *Co-location* is also known as *tight matrix*, is a concept of placing all resources of a project within a single location
+
+- *Delphi Technique* 信息收集過程中，通過多位專家反覆主觀的判斷，來獲取客觀信息
+
+- *Six-phase Decision Making Model*  
+
+- *Tornado Diagram* an useful for deterministic sensitivity analysis for comparing the relative importance of variables
+  <img src="https://www.excelhowto.com/wp-content/uploads/2014/06/Use-Clustered-Bar-to-Create-Tornado-Chart.png" alt="Tornado Chart" width="300" height="200">
+
+- *Stakeholder Engagement Assessment Matrix* a tool/technique in process of *Stakeholder Mangement Plan* to analyze the level of stakeholder engagement (unaware/resistant/neutral/supportive/leading)
+
+- *War Room* a room for discussing project management plan
+
+- *System(Process) Flowchart* a way of displaying how data flows in a system and how decisions are made to control events
+
+- *Resource Smoothing* vs. *Resource Leveling*
+
+- *PERT*, performance evaluation and review technique  
+Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
+
+  |   P/I Matix  |        High        |        Low       |
+  |--------------|:------------------:|-----------------:|
+  | High         |  Manage Closely    |  Keep Satisfied  |
+  | Low          |  Keep Informed     |   Monitor        |
