@@ -1,6 +1,6 @@
 # Project-Management-Professional
 
-> Test quote function
+> Use > to make quote
 
 ## Terminology
 ***
