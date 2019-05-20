@@ -3,7 +3,7 @@
 > Use > to make quote
 
 ## Terminology
-***
+
 - *Define Activity* a process to identify a specific actions to be preformed which decomposes work package  
 
 - *Salience Power* assess stakeholder's power  
