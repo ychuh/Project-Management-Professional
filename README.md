@@ -57,6 +57,4 @@
 *Scope Creep* known as requirement creep, which refers to the uncontrolled changes in the project’s or product’s scope
 
 *Pareto Anaysis* is a creative way of looking at causes of problems
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/6/6a/Pareto_analysis.svg" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="Pareto Chart" width="240" height="180" border="10" /></a>
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6a/Pareto_analysis.svg "Pareto Chart")
