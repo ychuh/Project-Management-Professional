@@ -23,7 +23,7 @@
 - *100% Rule* states that WBS includes 100% of work defined by the project scope  
 
 - *Tuckman Ladder*  
-**Stage 1: Forming**    meet and learn R&R (Role and Responsibility)  
+**Stage 1: Forming**meet and learn R&R (Role and Responsibility)  
 **Stage 2: Storming**   begins to address project work  
 **Stage 3: Norming**    begins to work together  
 **Stage 4: Performing** work through issues smoothly and effectively  
@@ -36,9 +36,9 @@
 - *Mind Mapping* consolidate ideas into single map
 
 - *Communication Method:*  
-**Push communication** web, MIS  
-**Pull communication**          email  
-**Interactive communication**   meeting, phone calls  
+  * *Push communication* *Tabspace* web, MIS  
+  * *Pull communication* *Tabspace* email  
+  * *Interactive communication*   meeting, phone calls  
 
 - *Organizational Breakdown Structure* details **who reports to whom**, the details of the hierarchy and the reporting structure
 
