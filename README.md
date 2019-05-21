@@ -23,7 +23,7 @@
 - *100% Rule* states that WBS includes 100% of work defined by the project scope  
 
 - *Tuckman Ladder*  
-  * *Forming*    meet and learn R&R (Role and Responsibility)  
+  * *Forming*    meet and work independently  
   * *Storming*    begins to address project work  
   * *Norming*     begins to work together  
   * *Performing*  work through issues smoothly and effectively  
