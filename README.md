@@ -91,3 +91,5 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   - Planning Stage: -10% - 25%
   - Closing Stage:  -5% - 10%
 
+- *Fishbone Diagram, Ishikawa Diagram* The defect is shown as the fish's head, facing to the right, with the causes extending to the left as fishbones; the ribs branch off the backbone for major causes, with sub-branches for root-causes, to as many levels as required  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Fishbone_BadCoffeeExample.jpg" alt="Tornado Chart" width="300" height="200">  
