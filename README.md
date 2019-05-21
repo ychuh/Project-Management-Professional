@@ -98,4 +98,7 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   <img src="https://erau.instructure.com/files/12067573/download?download_frd=1&verifier=L2YH7kBgyInXsZruovmqa5HbW7ioUSYGANCQjFW7" alt="ITTO of Manage Communication" width="700" height="150"> 
 
 - *Define Scope*  
-  <img src="http://4.bp.blogspot.com/-fyk72CtM8cg/UzrtuIIyfmI/AAAAAAAANyI/EMEBPc2kEJA/s1600/DS1.jpg" alt="ITTO of Manage Communication" width="700" height="150"> 
+  <img src="http://4.bp.blogspot.com/-fyk72CtM8cg/UzrtuIIyfmI/AAAAAAAANyI/EMEBPc2kEJA/s1600/DS1.jpg" alt="ITTO of Define Scope" width="700" height="150"> 
+
+- *Collect Requirement*  
+  <img src="https://www.oreilly.com/library/view/a-guide-to/9781935589679/images/fig5-4.png" alt="ITTO of Collect Requirement" width="700" height="350"> 
