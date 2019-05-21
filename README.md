@@ -85,3 +85,9 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   | Low | Keep Informed | Monitor |
 
 - *Seven Basic Tools of Quality* is most helpful in troubleshooting issues related to quality
+
+- *Definitive Estimates* cost estimate variance
+  - Initiate Stage: -25% - 75%
+  - Planning Stage: -10% - 25%
+  - Closing Stage:  -5% - 10%
+
