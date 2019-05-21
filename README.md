@@ -102,3 +102,6 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
 
 - *Collect Requirement*  
   <img src="https://www.oreilly.com/library/view/a-guide-to/9781935589679/images/fig5-4.png" alt="ITTO of Collect Requirement" width="700" height="350"> 
+
+- *Quality Assurance and Quality Control* QA 是事前的、是在產品完成之前的整個過程，而 QC 是事後的，當產品完成後檢查工作。QA 目標是在預防產品發生瑕疵，而QC則在找出完成的成品中潛在的瑕疵。
+
