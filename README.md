@@ -95,4 +95,4 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Fishbone_BadCoffeeExample.jpg" alt="Fishbone Diagram" width="300" height="200">  
 
 - *Manage Communication*  
-  <img src="https://www.oreilly.com/library/view/a-guide-to/9781935589679/images/fig10-5.png "ITTO of Manage Communication" width="300" height="200"> 
+  <img src="https://www.oreilly.com/library/view/a-guide-to/9781935589679/images/fig10-5.png" "ITTO of Manage Communication" width="300" height="200"> 
