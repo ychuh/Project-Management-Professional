@@ -83,3 +83,5 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   |-----------|------|-----|
   | High | Manage Closely | Keep Satisfied |
   | Low | Keep Informed | Monitor |
+
+- *Seven Basic Tools of Quality* is most helpful in troubleshooting issues related to quality
