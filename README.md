@@ -105,3 +105,31 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
 
 - *Quality Assurance and Quality Control* QA 是事前的、是在產品完成之前的整個過程，而 QC 是事後的，當產品完成後檢查工作。QA 目標是在預防產品發生瑕疵，而QC則在找出完成的成品中潛在的瑕疵。
 
+- *Power of Project Manager*
+  - Formal (legitimate): is based on the position of the project manager
+  - Informational: you have the power by being in charge of the process of gathering and distributing information
+  - Persuasive: You present your argument so nicely that the person is completely convinced to do what you want
+  - Ingratiate: an expert at flattery
+  - Reward: stems from giving rewards
+  - Personal: related to personality
+  - Situational: comes from rescuing the team/project/organization from such crisis
+  - Penalty (Coercive): comes from the ability to penalize team members
+  - Expert: comes from being the technical expert or even the project management expert
+  - Referent: comes from another person liking the project manager, respecting him
+  - Pressure-based: gives two options to a team member – the work she needs to be done or the bad consequence
+  - Guilt-based: reminds people their role and the fact that they are not living up to their expectation
+  - Avoiding: by refusing to participate in an activity
+
+- *Types of Organizational Structure*
+  |Types|Description|Authority|
+  |-------------------------|-----------|---------|
+  |Organic (Simple)         |n/a|n/a|
+  |Functional (Centralized) |n/a|n/a|
+  |Multi-divisional         |n/a|n/a|
+  |Matrix                   |n/a|n/a|
+  |Project Oriented         |n/a|n/a|
+  |Virtual                  |n/a|n/a|
+  |Hybrid                   |n/a|n/a|
+  |PMO                      |n/a|n/a|
+ 
+  
