@@ -139,7 +139,11 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   |------|-------------|
   | Business | High-level expectations and outline **why a project was initiated** |
   | Functional | Specific **behaviors** and **capabilities** of product |
-  | Non-functional | **Quality and environmental needs** of product |
-  | Solution | **Features and functionality** of the product |
+  | Non-functional | **Quality** and **environmental needs** of product |
+  | Solution | **Features** and **functionality** of the product |
   
-
+- *Contingency Reserve vs. Management Reserve*
+  - Contingency Reserve, to manage *known (identifyied) unkown (risk)*
+  - Management Reserve, to manage *unkown (unidentified) unkown (risk)*
+  
+  
