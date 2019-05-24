@@ -6,7 +6,7 @@
 
 - *Define Activity* a process to identify a specific actions to be preformed which decomposes work package  
 
-- *Salience Power* assess stakeholder's power  
+- *Salience Power* assess stakeholder's power (power, urgency, and legitimacy)
 
 - *Plurality* decisions made by the largest group  
 
