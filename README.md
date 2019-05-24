@@ -120,7 +120,7 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   - Guilt-based: reminds people their role and the fact that they are not living up to their expectation
   - Avoiding: by refusing to participate in an activity
 
-- *Types of Organizational Structure*
+- *Types of Organizational Structure*  
   | Types | Description | Authority |
   |-------------------------|-----------|---------|
   | Organic (Simple)         | n/a | n/a|
