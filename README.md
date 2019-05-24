@@ -121,15 +121,25 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   - Avoiding: by refusing to participate in an activity
 
 - *Types of Organizational Structure*  
-  | Types | Description | Authority |
-  |-------------------------|-----------|---------|
-  | Organic (Simple)         | n/a | n/a|
-  | Functional (Centralized) | n/a | n/a|
-  | Multi-divisional         | n/a | n/a|
-  | Matrix                   | n/a | n/a|
-  | Project Oriented         | n/a | n/a|
-  | Virtual                  | n/a | n/a|
-  | Hybrid                   | n/a | n/a|
-  | PMO                      | n/a | n/a|
- 
   
+  | Types | Description | Authority |
+  |--------------------------|-----|-----|
+  | Organic (Simple)         | n/a | n/a |
+  | Functional (Centralized) | people are grouped based on their area of specialization and supervised by a functional manager | n/a |
+  | Multi-divisional         | n/a | n/a |
+  | Matrix                   | n/a | n/a |
+  | Project Oriented         | n/a | n/a |
+  | Virtual                  | n/a | n/a |
+  | Hybrid                   | n/a | n/a |
+  | PMO                      | n/a | n/a |
+ 
+- *Types of Requirements*
+  
+  | Type | Description |
+  |------|-------------|
+  | Business requirement | High-level expectations and outline why a project was initiated |
+  | Functional requirement | Specific behaviors and capabilities of product |
+  | Non-functional reuqirement | Quality and environmental needs of product |
+  | Solution requirement | Features and functionality of the product |
+  
+
