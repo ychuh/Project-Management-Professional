@@ -135,11 +135,11 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
  
 - *Types of Requirements*
   
-  | Type | Description |
+  | Type of Requirement | Description |
   |------|-------------|
-  | Business requirement | High-level expectations and outline why a project was initiated |
-  | Functional requirement | Specific behaviors and capabilities of product |
-  | Non-functional reuqirement | Quality and environmental needs of product |
-  | Solution requirement | Features and functionality of the product |
+  | Business | High-level expectations and outline **why a project was initiated** |
+  | Functional | Specific **behaviors** and **capabilities** of product |
+  | Non-functional | **Quality and environmental needs** of product |
+  | Solution | **Features and functionality** of the product |
   
 
