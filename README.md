@@ -121,15 +121,15 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
   - Avoiding: by refusing to participate in an activity
 
 - *Types of Organizational Structure*
-  |Types|Description|Authority|
+  | Types | Description | Authority |
   |-------------------------|-----------|---------|
-  |Organic (Simple)         |n/a|n/a|
-  |Functional (Centralized) |n/a|n/a|
-  |Multi-divisional         |n/a|n/a|
-  |Matrix                   |n/a|n/a|
-  |Project Oriented         |n/a|n/a|
-  |Virtual                  |n/a|n/a|
-  |Hybrid                   |n/a|n/a|
-  |PMO                      |n/a|n/a|
+  | Organic (Simple)         | n/a | n/a|
+  | Functional (Centralized) | n/a | n/a|
+  | Multi-divisional         | n/a | n/a|
+  | Matrix                   | n/a | n/a|
+  | Project Oriented         | n/a | n/a|
+  | Virtual                  | n/a | n/a|
+  | Hybrid                   | n/a | n/a|
+  | PMO                      | n/a | n/a|
  
   
