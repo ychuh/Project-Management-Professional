@@ -150,10 +150,10 @@ Formula: (Optimistic + 4 * Most Likely + Pessmistic) / 6
 
   | Types | Description |
   |-------|-------------|
-  | Withdraw/Avoid | allow this issue to resolve itself |
-  | Smooth/Accommodate | finding areas of agreement, and tries to smooth the situation |
-  | Compromise/Reconcile | take suggestions from both sides and try to make a compromise |
-  | Force/Direct | agree with one party’s viewpoint and enforce their wishes |
-  | Collaborate/Problem Solve | a discussion is held on the issue with all parties to agree on a solution while considering multiple viewpoints |
+  | Withdraw/Avoid | Allow this issue to resolve itself |
+  | Smooth/Accommodate | Finding areas of agreement, and tries to smooth the situation |
+  | Compromise/Reconcile | Take suggestions from both sides and try to make a compromise |
+  | Force/Direct | Agree with one party’s viewpoint and enforce their wishes |
+  | Collaborate/Problem Solve | A discussion is held on the issue with all parties to agree on a solution while considering multiple viewpoints |
   
 
