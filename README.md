@@ -36,8 +36,8 @@
 - *Mind Mapping* consolidate ideas into single map
 
 - *Communication Method:*  
-  * *Push communication*    web, MIS  
-  * *Pull communication*    email  
+  * *Push communication*    email  
+  * *Pull communication*    web, MIS
   * *Interactive communication*    meeting, phone calls  
 
 - *Organizational Breakdown Structure* details **who reports to whom**, the details of the hierarchy and the reporting structure
